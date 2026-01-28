@@ -1,0 +1,11 @@
+{
+  "appId": "com.appcraft.enterprise.p4sm58sbn8",
+  "appName": "פרוייקט חדש",
+  "webDir": "dist",
+  "plugins": {
+    "Keyboard": {
+      "resize": "body",
+      "style": "light"
+    }
+  }
+}
